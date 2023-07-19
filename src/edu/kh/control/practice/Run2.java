@@ -7,8 +7,16 @@ public class Run2 {
 		//lo.practice1();
 		//lo.practice2();
 		//lo.practice3();
-		lo.practice4();
+		//lo.practice4();
 		//lo.practice5();
+		//lo.practice6();
+		//lo.practice7();
+		//lo.practice8();
+		lo.practice9();
+		//lo.practice10();
+		//lo.practice11();
+		//lo.practice12();
+		//lo.practice13();
 	}
 
 }

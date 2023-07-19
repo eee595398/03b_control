@@ -73,4 +73,67 @@ public class LoopPractice {
 			 
 		 }
 	}
+	
+	public void practice6() {
+		System.out.println("숫자 :");
+		int dan = sc.nextInt();
+		if(dan<2||dan>9) {
+			System.out.println("2~9사이 숫자만 입력해주세요.");
+			
+		}
+		else {
+			for(int i=dan; i<=9; i++) {
+				System.out.println("====="+i+"단"+"=====");
+			}
+		}
+			
+				
+	}
+	public void practice7() {
+		System.out.println("정수 입력 : ");
+		int i =sc.nextInt();
+		for(int n=1; n<=i; n++){
+			for(int j=1; j<=n; j++) {
+				System.out.print("*");
+				
+			}
+			System.out.println();
+		}
+		}
+	public void practice8() {
+		System.out.println("정수 입력 : ");
+		int i =sc.nextInt();
+		for(int n=i; n>=1; n--) {
+			for(int j=1;j<=n; j++) {
+				System.out.print("*");
+			}
+			System.out.println();
+		
+		}
+	}
+	public void practice9() {
+		System.out.println("정수 입력 : ");
+		int i =sc.nextInt();
+		for(int n=1; n<=i; n++) {
+			for(int j=1; j<=n; j++) {
+				if(j<n) System.out.print(" ");
+				else System.out.print("*");
+		 }System.out.println();	
+		}
+	}
+	public void practice10() {
+		
+	}
+	public void practice11() {
+		
+	}
+	public void practice12() {
+		
+	}
+	public void practice13() {
+		System.out.println("자연수 하나를 입력하세요 : ");
+		int input1 = sc.nextInt();
+		//if(input1%2==0 && input1%==3) 
+			
+	}
 	}
