@@ -12,11 +12,17 @@ public class Run2 {
 		//lo.practice6();
 		//lo.practice7();
 		//lo.practice8();
-		lo.practice9();
+		//lo.practice9();
 		//lo.practice10();
 		//lo.practice11();
 		//lo.practice12();
 		//lo.practice13();
+		WhileExample wh = new WhileExample();
+		
+		//wh.ex1();
+		//wh.ex2();
+		wh.ex3();
+	
 	}
 
 }

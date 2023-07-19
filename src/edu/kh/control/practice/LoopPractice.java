@@ -116,7 +116,7 @@ public class LoopPractice {
 		int i =sc.nextInt();
 		for(int n=1; n<=i; n++) {
 			for(int j=1; j<=n; j++) {
-				if(j<n) System.out.print(" ");
+				if(j<n) { System.out.print(" ");}
 				else System.out.print("*");
 		 }System.out.println();	
 		}
