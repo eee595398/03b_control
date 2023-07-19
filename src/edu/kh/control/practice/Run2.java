@@ -21,7 +21,7 @@ public class Run2 {
 		
 		//wh.ex1();
 		//wh.ex2();
-		wh.ex3();
+		//wh.ex3();
 	
 	}
 
